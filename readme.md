@@ -1,4 +1,4 @@
-##[0]这是一个参照json-tutorial这个项目完成的json parser/generator。
+##[0]这是一个参照json-tutorial这个项目完成的json parser/generator。json_tutorial01是我自己的实现,其余文件为原始项目。
 ##[1]使用C++。
 ##[2]参照了boost::property_tree设计了部分读写API。
 ##[3]大部分内容属于自己独立完成,包括parse部分的一些算法设计。与原始的项目有较大不同。
